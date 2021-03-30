@@ -1,0 +1,23 @@
+PS C:\Whitehat\DataScience\P97> & C:/Users/abhin/AppData/Local/Programs/Python/Python39/python.exe c:/Whitehat/DataScience/P97/guessingNumbers.py
+Number Guessing Game
+Guess a number between 1 and 9
+What do you think the number is? 5
+Your guess is too low. Guess higher.
+What do you think the number is? 7
+Your guess is too high. Guess lower.
+What do you think the number is? 6
+Congrats! You guessed the number right!
+PS C:\Whitehat\DataScience\P97> & C:/Users/abhin/AppData/Local/Programs/Python/Python39/python.exe c:/Whitehat/DataScience/P97/guessingNumbers.py
+Number Guessing Game
+Guess a number between 1 and 9   
+What do you think the number is? 1
+Your guess is too low. Guess higher.
+What do you think the number is? 1  
+Your guess is too low. Guess higher.
+What do you think the number is? 1  
+Your guess is too low. Guess higher.
+What do you think the number is? 1  
+Your guess is too low. Guess higher.
+What do you think the number is? 1
+Your guess is too low. Guess higher.
+You didn't guess the number. The number was 5.
